@@ -1,7 +1,7 @@
 
 # Astroware
 **Its a simple FE Hub created by Nil, Haru, and Sacr.ed**
-**As we do use Project Reanimates, Reanimate. We convert the scripts ourself.**
+**As we do use Project Animates, Reanimate. We convert the scripts ourself.**
 
 # Warrior Hats
 > https://www.roblox.com/catalog/1033722/Straw-Hat                                     
