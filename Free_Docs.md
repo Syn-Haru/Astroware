@@ -1,9 +1,7 @@
 
-# LuaSity
-**Its a simple FE Hub created by EncryptedLua and Haru**
+# Astroware
+**Its a simple FE Hub created by Nil, Haru, and Sacr.ed**
 **As we do use Project Reanimates, Reanimate. We convert the scripts oursself.**
-**And no the ui library is not made by us and we do not take credit for it**
-**Will we have a custom reanimate in the future? Yes we will, but as of now we will use Project reanimate.**
 
 # Warrior Hats
 > https://www.roblox.com/catalog/1033722/Straw-Hat                                     
