@@ -35,3 +35,16 @@
 # Neptunian V
 > https://www.roblox.com/catalog/1033722/Straw-Hat                        
 > **And any sword from the demonic greatsword series**
+
+# Commands
+```lua
+Reanimate: Astroware().reanimate
+Nep V: Astroware().nepv
+Legeke: Astroware().legeke
+Warrior: Astroware().warrior
+Baseball: Astroware().baseball
+Duel Guns: Astroware().duelguns
+Chill Sniper: Astroware().chillsniper
+Traprifle: Astroware().traprifle
+SwordSmasher: Astroware().swordsmasher
+```
